@@ -1,4 +1,4 @@
-# Signal Decomposition Visualizer
+# Signal Decomposition Visualiser
 
 This Java application visualizes the decomposition of signals into their component waves using Fourier Transform principles. It provides an interactive way to understand how complex signals can be broken down into simpler sine waves.
 
