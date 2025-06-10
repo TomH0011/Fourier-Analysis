@@ -4,9 +4,9 @@ This Java application visualizes the decomposition of signals into their compone
 
 ## Features
 
-- Real-time visualization of wave components
+- Real-time visualisation of wave components
 - Interactive addition of random waves
-- Clear visualization of both individual components and the combined signal
+- Clear visualisation of both individual components and the combined signal
 - Smooth animation of wave propagation
 - Color-coded components for easy identification
 
