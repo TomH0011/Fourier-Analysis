@@ -14,7 +14,7 @@ public class SignalVisualizer extends JFrame {
         setSize(1200, 800);
         setLayout(new BorderLayout());
         
-        // Initialize components
+        // Initialise components
         signalPanel = new SignalPanel();
         controlPanel = new JPanel();
         addWaveButton = new JButton("Add Wave");
